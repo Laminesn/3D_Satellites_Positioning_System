@@ -1,5 +1,5 @@
 #
- # Author:  Lamine Djibo, ldjibo2016@fit.edu
+ # Author:  Lamine Deen
  # Project: Multilateration
  #/
 
