@@ -1,7 +1,6 @@
 #
  # Author:  Lamine Djibo, ldjibo2016@fit.edu
- # Course:  CSE 4250, Section 01, Fall 2023
- #  Project: Proj 01, Multilateration
+ # Project: Multilateration
  #/
 
 # Program to find location of object in 3D
