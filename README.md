@@ -2,4 +2,4 @@
 3D Hyperbolic Satellite Positioning System to keep of objects coordinates in orbital space. Written in Julia on MacOS.
 
 Run from terminal with command:
-                                julia 
+                                julia mult.jl < input.txt
